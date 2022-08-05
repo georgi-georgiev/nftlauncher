@@ -1,1 +1,22 @@
-# nftlauncher
+# NFT Launch guide
+- Utility
+- Artwork
+- Technology
+- Team
+- Finances
+- Your Cost Structure
+- Your Revenue Stream
+- Pricing
+- Roadmap
+- Website
+- Social
+- Community
+- Reveal
+- Implementing Feedback
+- Price Observation
+- Tackle Fraud
+- List your projects
+- Execution	
+- S.C.A.M.P.E.R.
+- Disney Creative Strategy Template
+- Perceptual Map Template
